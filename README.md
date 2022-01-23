@@ -38,5 +38,7 @@ that user.
 
 #FrameWork used 
 <br>
-<img src="https://img.icons8.com/color/50/000000/react-native.png"/> &nsbp
-<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img src="https://img.icons8.com/color/50/000000/react-native.png"/> &nsbp;
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>&nsbp;
+<img src="https://img.icons8.com/color/48/000000/redux.png"/>&nsbp;
+
