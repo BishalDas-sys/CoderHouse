@@ -3,7 +3,7 @@
 Features:
 • Registration 
     1. Registration is done using the OTP system. This is sent using the phone number or email address. 
-    2. Need to collect following info when registering :
+    2. Need to collect following info when registering.
          1. Full name
          2. Profile picture
          3. Create username 
