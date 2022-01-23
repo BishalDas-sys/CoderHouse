@@ -41,4 +41,5 @@ that user.
 <img src="https://img.icons8.com/color/50/000000/react-native.png"/> 
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img src="https://img.icons8.com/color/48/000000/redux.png"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 
