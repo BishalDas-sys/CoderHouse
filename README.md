@@ -1,4 +1,8 @@
-# codershouse-mern
+# codershouse-mern - This Project is Under Development. 
+Below are some of the implemented interface and the remaining features will be updated in future.
+
+# Screenshots
+<a href="https://ibb.co/fpMh6zX"><img src="https://i.ibb.co/fpMh6zX/Screenshot-1491.png" alt="Screenshot-1491" border="0"></a> <a href="https://ibb.co/Js0p7Gk"><img src="https://i.ibb.co/Js0p7Gk/Screenshot-1496.png" alt="Screenshot-1496" border="0"></a> <a href="https://ibb.co/b6s0N0B"><img src="https://i.ibb.co/b6s0N0B/Screenshot-1497.png" alt="Screenshot-1497" border="0"></a>
 
 Features:
 • Registration 
